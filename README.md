@@ -1,6 +1,6 @@
 # **Game Of Thrones Characters App** 🚀
 
-A modern, high-performance mobile application built with **Flutter** that fetches and displays data from the [Game Of Thrones API](https://thronesapi.com/api/v2/).
+A modern, high-performance mobile application built with **Flutter** that fetches and displays data from the [Game Of Thrones API](https://thronesapi.com/api/v2/),and[Vercel Quotes API](https://motivational-spark-api.vercel.app/api/quotes/)
 This project focuses on implementing industry-standard software engineering practices, specifically **State Management** and **Clean Architecture**.
 
 
