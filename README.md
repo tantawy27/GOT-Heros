@@ -8,6 +8,8 @@ This project focuses on implementing industry-standard software engineering prac
 <img width="459" height="962" alt="image" src="https://github.com/user-attachments/assets/37f38436-d5d6-4bc4-9359-7270a192a505" />
 <img width="465" height="964" alt="image" src="https://github.com/user-attachments/assets/84ccd34e-a5ab-4290-b3ec-5a9ed9960d5e" />
 <img width="472" height="980" alt="image" src="https://github.com/user-attachments/assets/760d6d7e-bb1b-4aaf-9404-dcde1c2fff5e" />
+<img width="299" height="612" alt="image" src="https://github.com/user-attachments/assets/c3c7e19c-ddba-4656-be57-2317a47105b5" />
+
 
 
 
