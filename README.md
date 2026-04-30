@@ -5,13 +5,10 @@ This project focuses on implementing industry-standard software engineering prac
 
 
 ## 📱 **App Preview**
-<img width="459" height="962" alt="image" src="https://github.com/user-attachments/assets/37f38436-d5d6-4bc4-9359-7270a192a505" />
-<img width="465" height="964" alt="image" src="https://github.com/user-attachments/assets/84ccd34e-a5ab-4290-b3ec-5a9ed9960d5e" />
-<img width="472" height="980" alt="image" src="https://github.com/user-attachments/assets/760d6d7e-bb1b-4aaf-9404-dcde1c2fff5e" />
-<img width="299" height="612" alt="image" src="https://github.com/user-attachments/assets/c3c7e19c-ddba-4656-be57-2317a47105b5" />
-
-
-
+<img width="399" height="833" alt="image" src="https://github.com/user-attachments/assets/4ad8b55f-8c1a-4f1a-a9b0-7bda463d0c56" />
+<img width="399" height="833" alt="image" src="https://github.com/user-attachments/assets/07a58e33-6cd4-413a-81e0-7f508bc3f7a5" />
+<img width="402" height="829" alt="image" src="https://github.com/user-attachments/assets/9042822b-532c-4d73-87fb-e30910391896" />
+<img width="402" height="834" alt="image" src="https://github.com/user-attachments/assets/7170c42f-6465-45aa-8aeb-4201a2a687ae" />
 
 
 
